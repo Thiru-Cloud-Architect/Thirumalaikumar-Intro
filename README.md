@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thirumalaikumar-Cloud-Engineer
+- 👋 Hi, I’m @Thirumalaikumar-Cloud-Architect
 - 👀 I’m interested in building/migrating/solutioning applications in AWS, Azure, Terraform and Python related Stuffs
 - 🌱 I’m currently learning Data Engineering and Cloud Design Patterns 
 - 📫 How to reach me kumarofrcet@gmail.com
