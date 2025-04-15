@@ -2,7 +2,7 @@
 - 👀 I’m interested in building/migrating/solutioning applications in AWS (Compute, Storage, Serverless, Observability, Policies, Security/IAM and Cloudformation), Terraform and Python related Stuffs.
 - I closely worked on building cloud governance and security solutions (cspm) from the scratch with cloud automations and auto/manual remediations.
 - I do have a good interest in building cloud systems that are highly available and recoverable using some standard BCDR strategies. 
-- 🌱 I’m currently learning Azure AI and Cloud Design Patterns for better architectures.
+- 🌱 I’m currently learning AWS Networking, Cloud Identity Entitlement and Cloud Design Patterns for better architectures.
 - 📫 How to reach me? kumarofrcet@gmail.com
 
 <!---
