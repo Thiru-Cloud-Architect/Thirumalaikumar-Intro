@@ -3,7 +3,9 @@
 - I closely worked on building cloud governance and security solutions (cspm) from the scratch with cloud automations and auto/manual remediations.
 - I do have a good interest in building cloud systems that are highly available and recoverable using some standard BCDR strategies. 
 - 🌱 I’m currently learning AWS Networking, Cloud Identity Entitlement and Cloud Design Patterns for better architectures.
-- 📫 How to reach me? kumarofrcet@gmail.com
+- 📫 How to reach me? thirumalaikumar.pappaiah@gmail.com
+
+
 
 <!---
 Thirumalaikumar-Cloud-Engineer/Thirumalaikumar-Cloud-Engineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
