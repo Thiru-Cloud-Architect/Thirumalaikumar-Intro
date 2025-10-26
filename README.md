@@ -4,7 +4,8 @@
 - I do have a good interest in building cloud systems that are highly available and recoverable using some standard BCDR strategies. 
 - 🌱 I’m currently learning AWS Networking, Cloud Identity Entitlement and Cloud Design Patterns for better architectures.
 - 📫 How to reach me? thirumalaikumar.pappaiah@gmail.com
-- Look at my POCs/Repos here https://github.com/Thiru-Cloud-Architect?tab=repositories 
+- Look at my POCs/Repos here https://github.com/Thiru-Cloud-Architect?tab=repositories
+- My Tech Blog : https://medium.com/@kumarofrcet
 
 
 
